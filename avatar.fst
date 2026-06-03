@@ -1,5 +1,5 @@
 name = BlobCat_test1
-scale = 1
+scale = 0.23
 filename = Kat2.fbx
 texdir = textures
 
